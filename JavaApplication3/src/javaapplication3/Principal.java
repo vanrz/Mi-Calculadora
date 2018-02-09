@@ -11,6 +11,10 @@ package javaapplication3;
  */
 public class Principal {
     public static void main (String[]args ){
+        //crear un objeto de la clase Calculadora.
+        
+       Calculadora miCalculadora; //definicion.
+       miCalculadora=new Calculadora();//construir el objeto
         
     }
     
